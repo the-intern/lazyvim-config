@@ -2,7 +2,7 @@ return {
   -- Other plugins...
 
   {
-    "jinzhongjia/vim-hugo",
-    ft = { "gohtmltmpl", "tmpl", "html" }, -- Hugo templates
+    "phelipetls/vim-hugo",
+    ft = { "markdown", "html", "hugohtml" }, -- Hugo templates
   },
 }
